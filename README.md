@@ -161,18 +161,6 @@ Deviation > 15%?
 - Currently uses only discharge (Q); adding rainfall, reservoir level, and temperature could improve accuracy
 - Designed for offline/semi-real-time use; IoT/SCADA integration would enable fully automated deployment
 
----
-
-## 🔭 Future Scope
-
-- [ ] IoT sensor / SCADA system integration for fully automated real-time feeds
-- [ ] Multi-feature modeling (rainfall, reservoir level, inflow, temperature)
-- [ ] Web dashboard with live anomaly alerts and historical trend views
-- [ ] Cloud deployment (AWS / Azure) for multi-dam centralized monitoring
-- [ ] Explore GRU and Transformer architectures for comparison
-- [ ] Formal drift detection with automated retraining triggers
-
----
 
 ## 👩‍💻 Author
 
